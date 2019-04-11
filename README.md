@@ -15,8 +15,8 @@
 | 02 | [Week_02](https://github.com/Fotic/Python-Exercises/tree/master/Theory/Week%202)
 | 03 | [Week_03](https://github.com/Fotic/Python-Exercises/tree/master/Theory/Week%203) 
 | 04 | [Week_04](https://github.com/Fotic/Python-Exercises/tree/master/Theory/Week%204)
-| 05 | [Week_04](https://github.com/Fotic/Python-Exercises/tree/master/Theory/Week%205)
-| 06 | [Week_04](https://github.com/Fotic/Python-Exercises/tree/master/Theory/Week%206)
+| 05 | [Week_05](https://github.com/Fotic/Python-Exercises/tree/master/Theory/Week%205)
+| 06 | [Week_06](https://github.com/Fotic/Python-Exercises/tree/master/Theory/Week%206)
 
 | No | Assignment |
 | :---: | :---: |
